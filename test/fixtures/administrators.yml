@@ -1,0 +1,37 @@
+---
+administrator_4:
+  id: 4
+  type: Administrator
+  phone: '5544445555'
+  source:
+  terms:
+  zip:
+  time_zone: 'Pacific Time (US & Canada)'    
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:04.656342000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: 2018-08-04 18:39:04.656342000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:04.656342000 Z
+    zone: *1
+    time: 2018-08-04 18:39:04.656342000 Z
+  avatar_file_name:
+  avatar_content_type:
+  avatar_file_size:
+  avatar_updated_at:
+  email: 'administrator_4@fake.me'
+  encrypted_password: ''
+  reset_password_token:
+  reset_password_sent_at:
+  remember_created_at:
+  sign_in_count: 0
+  current_sign_in_at:
+  last_sign_in_at:
+  current_sign_in_ip:
+  last_sign_in_ip:
+  stripe_id:
+  last_seen:
+  authentication_token: Zo5Ysok7VDoFzwB2zGj1
+  status:
+  organization_id: 4

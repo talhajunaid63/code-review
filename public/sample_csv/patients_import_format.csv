@@ -1,0 +1,12 @@
+last_name,first_name,phone,gender,date_of_birth,address,city,state,zip_code,email,reference_number,time_zone,patient
+paddington,bear,555-355-5555,m,10/31/1980,130 N West St,Los Angeles,CA,91108,fake355@example.com,4567-4567-4567-4567,Pacific/Midway,true
+johnson,john,(555)-244-5555,m,02/03/1990,130 N West St,Los Angeles,CA,91108,fake244@example.com,,Pacific/Pago_Pago,true
+rodriguez,samantha,5552555555,f,10/31/1980,130 N West St,Los Angeles,CA,91108,fake255@example.com,,Pacific/Honolulu,true
+white,tanya,555-266-5555,f,10/31/1980,130 N West St,Los Angeles,CA,91108,fake266@example.com,,America/Los_Angeles,true
+smith,olivia,555-277-5555,f,10/31/1980,130 N West St,Los Angeles,CA,91108,fake277@example.com,,America/New_York,true
+carpenter,john,1-555-288-5555,m,10/31/1980,130 N West St,Los Angeles,CA,91108,fake288@example.com,,America/Halifax,true
+Wycliffe,troy,555-311-5555,m,08/12/1983,130 N West St,Los Angeles,CA,91108,fake311@example.com,,Africa/Monrovia,true
+sellers,philip,1(555)299-5555,m,10/11/1982,130 N West St,Los Angeles,CA,91108,fake299@example.com,,Europe/London,true
+Wycliffe,troy,555-311-5555,m,08/12/1983,130 N West St,Los Angeles,CA,91108,fake311@example.com,,Africa/Monrovia,true
+O'riley,baba,555-322-5555,m,09/13/1984,130 N West St,Los Angeles,CA,91108,fake322@example.com,,America/Guatemala,true
+Townshend,pete,555-344-5555,m,10/14/1985,130 N West St,Los Angeles,CA,91108,fake344@example.com,,America/Regina,true

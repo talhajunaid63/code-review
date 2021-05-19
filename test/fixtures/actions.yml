@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  event: MyString
+  user: one
+  actionable_type: MyString
+  actionable_id: 1
+  metadata: MyString
+
+two:
+  event: MyString
+  user: two
+  actionable_type: MyString
+  actionable_id: 1
+  metadata: MyString

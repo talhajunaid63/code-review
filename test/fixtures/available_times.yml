@@ -1,0 +1,110 @@
+---
+available_time_1:
+  user_id: 3
+  time_block: 10
+  day: 0
+
+available_time_2:
+  user_id: 3
+  time_block: 8
+  day: 2
+
+available_time_3:
+  user_id: 3
+  time_block: 3
+  day: 3
+
+available_time_4:
+  user_id: 3
+  time_block: 9
+  day: 6
+
+available_time_5:
+  user_id: 2
+  time_block: 3
+  day: 6
+
+available_time_6:
+  user_id: 7
+  time_block: 10
+  day: 3
+
+available_time_7:
+  user_id: 7
+  time_block: 8
+  day: 6
+
+available_time_8:
+  user_id: 8
+  time_block: 9
+  day: 6
+
+available_time_9:
+  user_id: 8
+  time_block: 3
+  day: 4
+
+available_time_10:
+  user_id: 9
+  time_block: 10
+  day: 2
+
+available_time_11:
+  user_id: 10
+  time_block: 8
+  day: 4
+
+available_time_12:
+  user_id: 11
+  time_block: 3
+  day: 6
+
+available_time_13:
+  user_id: 11
+  time_block: 9
+  day: 0
+
+available_time_14:
+  user_id: 12
+  time_block: 9
+  day: 6
+
+available_time_15:
+  user_id: 12
+  time_block: 9
+  day: 4
+
+available_time_16:
+  user_id: 12
+  time_block: 9
+  day: 0
+
+available_time_17:
+  user_id: 13
+  time_block: 9
+  day: 6
+
+available_time_18:
+  user_id: 12
+  time_block: 9
+  day: 6
+
+available_time_19:
+  user_id: 2
+  time_block: 7
+  day: 5
+
+available_time_20:
+  user_id: 42
+  time_block: 7
+  day: 5
+
+available_time_21:
+  user_id: 42
+  time_block: 6
+  day: 5
+
+available_time_22:
+  user_id: 42
+  time_block: 5
+  day: 5

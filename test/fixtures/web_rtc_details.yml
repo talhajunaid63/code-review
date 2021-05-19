@@ -1,0 +1,25 @@
+---
+web_rtc_detail_1:
+  id: 1
+  ice_servers: '[{"url"=>"stun:w1.xirsys.com"}, {"username"=>"5782644e-9850-11e8-b30e-2becf6995956",
+    "url"=>"turn:w1.xirsys.com:80?transport=udp", "credential"=>"578264c6-9850-11e8-9dec-d2fb602c061e"},
+    {"username"=>"5782644e-9850-11e8-b30e-2becf6995956", "url"=>"turn:w1.xirsys.com:3478?transport=udp",
+    "credential"=>"578264c6-9850-11e8-9dec-d2fb602c061e"}, {"username"=>"5782644e-9850-11e8-b30e-2becf6995956",
+    "url"=>"turn:w1.xirsys.com:80?transport=tcp", "credential"=>"578264c6-9850-11e8-9dec-d2fb602c061e"},
+    {"username"=>"5782644e-9850-11e8-b30e-2becf6995956", "url"=>"turn:w1.xirsys.com:3478?transport=tcp",
+    "credential"=>"578264c6-9850-11e8-9dec-d2fb602c061e"}, {"username"=>"5782644e-9850-11e8-b30e-2becf6995956",
+    "url"=>"turns:w1.xirsys.com:443?transport=tcp", "credential"=>"578264c6-9850-11e8-9dec-d2fb602c061e"},
+    {"username"=>"5782644e-9850-11e8-b30e-2becf6995956", "url"=>"turns:w1.xirsys.com:5349?transport=tcp",
+    "credential"=>"578264c6-9850-11e8-9dec-d2fb602c061e"}]'
+  config: 
+  status: 
+  visit_id: 
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:05.110662000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: 2018-08-04 18:39:05.110662000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:06.000000000 Z
+    zone: *1
+    time: 2018-08-04 18:39:06.000000000 Z

@@ -1,0 +1,9 @@
+uvo_data:
+  organization_id: 3
+  address: true
+  medications: true
+  conditions: true
+  visit_notes: true
+  dob: true
+  gender: true
+  incident_information: false

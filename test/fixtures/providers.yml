@@ -1,0 +1,356 @@
+provider_isreal:
+  id: 2
+  first_name: Isreal
+  last_name: Feil
+  type: Provider
+  phone: '5552225555'
+  email: 'provider_isreal@fake.me'
+  source:
+  terms:
+  zip: 93001
+  time_zone: 'Pacific Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.133720000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: 2018-08-04 18:39:03.133720000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.133720000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.133720000 Z
+  authentication_token: HxWcKzzkJ3B8s_D8FPjg
+  organization_id: 1
+
+provider_blanch:
+  id: 3
+  first_name: Blanch
+  last_name: Grady
+  type: Provider
+  phone: '5553335555'
+  email: 'provider_blanch@fake.me'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: CyM65Fp33LBe2FhrpypC
+  organization_id: 1
+
+provider_antoine:
+  id: 7
+  first_name: Antoine
+  last_name: Ward
+  type: Provider
+  phone: '5557775555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: erssaw65Fp33LBe2FhrpypC
+  organization_id: 4
+
+provider_carissa:
+  id: 8
+  first_name: Carissa
+  last_name: Huels
+  type: Provider
+  phone: '5558885555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: erssaw8882FhrpypC
+  organization_id: 4
+
+provider_devin:
+  id: 9
+  first_name: Devin
+  last_name: Marsh
+  type: Provider
+  phone: '5559995555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: erssaw9992FhrpypC
+  organization_id: 4
+
+provider_christopher:
+  id: 10
+  first_name: Christopher
+  last_name: Fickle
+  type: Provider
+  phone: '5555105555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: erssaw10102FhrpypC
+  organization_id: 4
+
+provider_leah:
+  id: 11
+  first_name: Leah
+  last_name: Bailey
+  type: Provider
+  phone: '5555115555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: erssaw11112FhrpypC
+  organization_id: 4
+
+provider_helena:
+  id: 12
+  first_name: Leah
+  last_name: Bailey
+  type: Provider
+  phone: '5555125555'
+  email: 'provider_helena@fake.me'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: erssaw1212FhrpypC
+  organization_id: 4
+
+provider_karin:
+  id: 13
+  first_name: Leah
+  last_name: Bailey
+  type: Provider
+  phone: '5555135555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: erssaw13132FhrpypC
+  organization_id: 4
+
+provider_janet:
+  id: 42
+  first_name: Janet
+  last_name: Whitehouse
+  type: Provider
+  phone: '5555425555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: 42erssaw13132FhrpypC
+  organization_id: 3
+
+provider_john:
+  id: 43
+  first_name: John
+  last_name: Stephens
+  type: Provider
+  phone: '5555435555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: 43erssaw13132FhrpypC
+  organization_id: 3
+
+southwest_medical_org_provider:
+  id: 144
+  type: Provider
+  phone: '5551445555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: 44erssaw13132FhrpypC
+  organization_id: 1
+
+wellstart_health_org_provider:
+  id: 145
+  type: Provider
+  phone: '5551455555'
+  source:
+  terms:
+  zip: 91042
+  time_zone: 'Central Time (US & Canada)'
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.787981000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.787981000 Z
+  avatar_file_name: casualdoctor.jpg
+  avatar_content_type: image/jpeg
+  avatar_file_size: 56584
+  avatar_updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:03.674659000 Z
+    zone: *1
+    time: 2018-08-04 18:39:03.674659000 Z
+  authentication_token: 45erssaw13132FhrpypC
+  organization_id: 2

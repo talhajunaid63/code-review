@@ -1,0 +1,19 @@
+organization_email_reminder_setting_1:
+  id: 1
+  organization_id: 4
+  patient_send_at: "1.day"
+  patient_subject: "Test Patient Subject"
+  patient_content: "Test Patient Content"
+  provider_send_at: "30.minutes"
+  provider_subject: "Test Provider Subject"
+  provider_content: "Test Provider Content"
+  send_via: 1
+
+organization_sms_reminder_setting_1:
+  id: 2
+  organization_id: 4
+  patient_send_at: "1.day"
+  patient_content: "Test Patient Content"
+  provider_send_at: "30.minutes"
+  provider_content: "Test Provider Content"
+  send_via: 2

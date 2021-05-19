@@ -1,0 +1,9 @@
+cpt_1:
+  id: 1
+  cpt_code: "90785"
+  cpt_description: "Psytx complex interactive "
+
+cpt_2:
+  id: 2
+  cpt_code: "G2088"
+  cpt_description: "Off opioid tx month add 30 "

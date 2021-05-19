@@ -1,0 +1,30 @@
+---
+visit_setting_1:
+  id: 1
+  organization_id: 1
+  visit_rate: 35
+  visit_length: 10
+  visit_buffer: 5
+  require_payment: false
+  self_service_enabled: true
+  auth_number_required: false
+
+visit_setting_2:
+  id: 2
+  organization_id: 3
+  visit_rate: 35
+  visit_length: 10
+  visit_buffer: 5
+  require_payment: true
+  self_service_enabled: true
+  auth_number_required: false
+
+visit_setting_3:
+  id: 3
+  organization_id: 4
+  visit_rate: 35
+  visit_length: 10
+  visit_buffer: 5
+  require_payment: false
+  self_service_enabled: true
+  auth_number_required: false

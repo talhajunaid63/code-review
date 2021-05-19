@@ -1,0 +1,11 @@
+first_name,last_name,phone,gender,birth_month,birth_day,birth_year,address,city,state,zip_code,email,reference_number
+bear,paddington,555-355-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake355@example.com,4567-4567-4567-4567
+john,johnson,(555)-244-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake244@example.com,
+samantha,rodriguez,5552555555,f,10,31,1980,130 N West St,Los Angeles,CA,91108,fake255@example.com,
+tanya,white,555-266-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake266@example.com,
+olivia,smith,555-277-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake277@example.com,
+john,carpenter,1-555-288-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake288@example.com,
+philip,sellers,1(555)299-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake299@example.com,
+troy,Wycliffe,555-311-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake311@example.com,
+Baba,O'riley,555-322-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake322@example.com,
+pete,Townshend,555-344-5555,m,10,31,1980,130 N West St,Los Angeles,CA,91108,fake344@example.com,

@@ -1,0 +1,19 @@
+visit_recording_1:
+  id: 1
+  organization_id: 4
+  visit_id: 4
+  duration: 328
+  tok_session_id: "tok_tok_01"
+  tok_id: "tok_tok_01"
+  size: 18023312
+  expired_at: <%= Time.now + 2.days %>
+
+visit_recording_2:
+  id: 2
+  organization_id: 3
+  visit_id: 4
+  duration: 500
+  tok_session_id: "tok_tok_01"
+  tok_id: "tok_tok_01"
+  size: 18023312
+  expired_at: <%= Time.now + 2.days %>

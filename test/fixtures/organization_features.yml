@@ -1,0 +1,62 @@
+_fixture:
+  model_class: Organization::Feature
+
+web_based_platform:
+  name: "Web based platform"
+  key: "web_based_platform"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+mobile_platform:
+  name: "Mobile platform"
+  key: "mobile_platform"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+high_definition_video_call:
+  name: "High Definition Video Call"
+  key: "high_definition_video_call"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+recording:
+  name: "Recording"
+  key: "recording"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+charge_client_customer:
+  name: "Charge client/customer"
+  key: "charge_client_customer"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+white_labeling:
+  name: "White labeling"
+  key: "white_labeling"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+easy_connect:
+  name: "Easy connect: (App-less mobile connectivity)"
+  key: "easy_connect"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+multi_party_video:
+  name: "Multi-party video"
+  key: "multi_party_video"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+system_integrations:
+  name: "System integrations"
+  key: "system_integrations"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+voip_call:
+  name: "Voip Call"
+  key: "voip_call"
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>

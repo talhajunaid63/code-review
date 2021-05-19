@@ -1,0 +1,23 @@
+quibusdamix:
+  id: 4
+  name: quibusdamix
+  how_long: Less than a month
+  patient_id: 1
+  visit_id: 1
+  dependent_id:
+
+sitium:
+  id: 2
+  name: sitium
+  how_long: Less than a month
+  patient_id: 1
+  visit_id: 1
+  dependent_id:
+
+teneturium:
+  id: 3
+  name: teneturium
+  how_long: Less than a month
+  patient_id: 1
+  visit_id: 1  
+  dependent_id:

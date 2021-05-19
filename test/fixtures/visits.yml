@@ -1,0 +1,286 @@
+visit_1:
+  id: 1
+  patient_id: 1
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + 2.days %>
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: <%= DateTime.now.beginning_of_day + 2.days + rand(8..15).hours %>
+  status:
+  patient_notes: Here are test notes about this visit.
+  provider_notes:
+  start_date_time:
+  end_date_time:
+  step:
+  stripe_invoice:
+  internal_notes: This is a private internal note
+  organization_id: 4
+  online_users:
+  phone_confirmed: true
+
+visit_2:
+  id: 2
+  patient_id: 1
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  status:
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+  online_users:
+
+visit_3:
+  id: 3
+  patient_id: 27
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  status:
+  patient_notes: Here are test notes about this visit.
+  provider_notes:
+  start_date_time:
+  end_date_time:
+  step:
+  stripe_invoice:
+  organization_id: 4
+  online_users:
+
+visit_4:
+  id: 4
+  patient_id: 20
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+
+visit_5:
+  id: 5
+  patient_id: 21
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+
+visit_6:
+  id: 6
+  patient_id: 22
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+
+visit_7:
+  id: 7
+  patient_id: 23
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+
+visit_8:
+  id: 8
+  patient_id: 44
+  schedule: <%= DateTime.tomorrow.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  tok_session_id: tok_8_tok_8
+  organization_id: 3
+  phone_confirmed: true
+
+visit_9:
+  id: 9
+  patient_id: 44
+  schedule: <%= DateTime.tomorrow.beginning_of_day + rand(2..3).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 3
+
+visit_10:
+  id: 10
+  patient_id: 44
+  schedule: <%= DateTime.tomorrow.beginning_of_day + rand(2..3).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 3
+
+visit_11:
+  id: 11
+  patient_id: 21
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+  created_at: <%= DateTime.now.beginning_of_day - 10.days + rand(8..15).hours %>
+
+visit_12:
+  id: 12
+  patient_id: 22
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+  created_at: <%= DateTime.now.beginning_of_day - 10.days + rand(8..15).hours %>
+
+visit_13:
+  id: 13
+  patient_id: 23
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+  created_at: <%= DateTime.now.beginning_of_day - 10.days + rand(8..15).hours %>
+
+visit_14:
+  id: 14
+  patient_id: 38
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+  created_at: <%= DateTime.now.beginning_of_day - 5.days + rand(8..15).hours %>
+
+visit_15:
+  id: 15
+  patient_id: 39
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+  created_at: <%= DateTime.now.beginning_of_day - 5.days + rand(8..15).hours %>
+
+visit_16:
+  id: 16
+  patient_id: 40
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + rand(3..4).days %>
+    zone: *1
+    time: <%= DateTime.now.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 4
+  created_at: <%= DateTime.now.beginning_of_day - 5.days + rand(8..15).hours %>
+
+visit_17:
+  id: 17
+  patient_id: 44
+  schedule: <%= DateTime.tomorrow.beginning_of_day + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 3
+  created_at: <%= DateTime.now.beginning_of_day - 5.days + rand(8..15).hours %>
+
+visit_18:
+  id: 18
+  patient_id: 44
+  schedule: <%= DateTime.tomorrow.beginning_of_day + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 3
+  created_at: <%= DateTime.now.beginning_of_day - 10.days + rand(8..15).hours %>
+
+visit_19:
+  id: 19
+  patient_id: 1
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + 2.days %>
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: <%= DateTime.now.beginning_of_day + 2.days + rand(8..15).hours %>
+  status:
+  patient_notes: Here are test notes about this visit.
+  provider_notes: Provider test visit
+  internal_notes: This is a private internal note
+  organization_id: 1
+  phone_confirmed: true
+
+visit_20:
+  id: 20
+  patient_id: 1
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + 2.days %>
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: <%= DateTime.now.beginning_of_day + 2.days + rand(8..15).hours %>
+  status:
+  patient_notes: Patient notes for visit.
+  provider_notes: Provider's test visit
+  internal_notes: This is a private internal note
+  organization_id: 1
+
+southwest_medical_org_visit_21:
+  id: 21
+  patient_id: 146
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + 2.days %>
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: <%= DateTime.now.beginning_of_day + 2.days + rand(8..15).hours %>
+  status:
+  patient_notes: Patient notes for visit.
+  provider_notes: Provider's test visit
+  internal_notes: This is a private internal note
+  organization_id: 1
+
+wellstart_health_org_visit_22:
+  id: 22
+  patient_id: 147
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + 2.days %>
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: <%= DateTime.now.beginning_of_day + 2.days + rand(8..15).hours %>
+  status:
+  patient_notes: Patient notes for visit.
+  provider_notes: Provider's test visit
+  internal_notes: This is a private internal note
+  organization_id: 2
+
+visit_21:
+  id: 23
+  patient_id: 27
+  dependent_id:
+  schedule: !ruby/object:ActiveSupport::TimeWithZone
+    utc: <%= DateTime.now + 2.days %>
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: <%= DateTime.now.beginning_of_day + 2.days + rand(8..15).hours %>
+  status:
+  organization_id: 4
+
+visit_24:
+  id: 24
+  patient_id: 1340
+  schedule: <%= DateTime.tomorrow.beginning_of_day + rand(3..4).days + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  tok_session_id: tok_8_tok_8
+  organization_id: 3
+  phone_confirmed: true
+
+visit_25:
+  id: 25
+  patient_id: 44
+  schedule: <%= DateTime.tomorrow.beginning_of_day + rand(8..15).hours %>
+  patient_notes: Here are test notes about this visit.
+  organization_id: 3
+  created_at: <%= DateTime.now.beginning_of_day - 5.days + rand(8..15).hours %>

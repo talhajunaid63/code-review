@@ -1,0 +1,131 @@
+coordinator_6:
+  id: 6
+  first_name: Raina
+  last_name: Kuhn
+  type: Coordinator
+  phone: '5556665555'
+  email: 'coordinator_6@fake.me'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: EPFsZHs9iEPZjxxmxgh4
+  organization_id: 1
+
+coordinator_14:
+  id: 14
+  first_name: Cruz
+  last_name: Turner
+  type: Coordinator
+  phone: '5555145555'
+  email: 'coordinator_14@fake.me'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 14EPFsZHs9iEPZjxxmxgh4
+  organization_id: 4
+
+coordinator_15:
+  id: 15
+  first_name: Galen
+  last_name: Reilly
+  type: Coordinator
+  phone: '5555155555'
+  email: 'coordinator_15@fake.me'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 15EPFsZHs9iEPZjxxmxgh4
+  organization_id: 4
+
+coordinator_16:
+  id: 16
+  first_name: Dane
+  last_name: Turner
+  type: Coordinator
+  phone: '5555165555'
+  email: 'coordinator_16@fake.me'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 16EPFsZHs9iEPZjxxmxgh4
+  organization_id: 4
+
+coordinator_17:
+  id: 17
+  first_name: Retta
+  last_name: Hoeger
+  type: Coordinator
+  phone: '5555175555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 17EPFsZHs9iEPZjxxmxgh4
+  organization_id: 4
+
+coordinator_18:
+  id: 18
+  first_name: Araceli
+  last_name: Lueilwitz
+  type: Coordinator
+  phone: '5555185555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 18EPFsZHs9iEPZjxxmxgh4
+  organization_id: 4
+
+coordinator_19:
+  id: 19
+  first_name: Harriette
+  last_name: Hackett
+  type: Coordinator
+  phone: '5555195555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 19EPFsZHs9iEPZjxxmxgh4
+  organization_id: 4
+
+coordinator_46:
+  id: 46
+  first_name: Michael
+  last_name: Thompson
+  type: Coordinator
+  phone: '5555465555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 4618EPFsZHs9iEPZjxxmxgh4
+  organization_id: 3
+
+coordinator_47:
+  id: 47
+  first_name: Janice
+  last_name: Alverez
+  type: Coordinator
+  phone: '5555475555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 4718EPFsZHs9iEPZjxxmxgh4
+  organization_id: 3
+
+coordinator_48:
+  id: 48
+  first_name: Marco
+  last_name: Jimenez
+  type: Coordinator
+  phone: '5555485555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 4818EPFsZHs9iEPZjxxmxgh4
+  organization_id: 3
+
+coordinator_49:
+  id: 49
+  first_name: Mary
+  last_name: Paulson
+  type: Coordinator
+  phone: '5555495555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 4918EPFsZHs9iEPZjxxmxgh4
+  organization_id: 3
+
+southwest_medical_org_coordinator:
+  id: 50
+  first_name: Suzane
+  last_name: Hilton
+  type: Coordinator
+  phone: '5555505555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 5018EPFsZHs9iEPZjxxmxgh4
+  organization_id: 1
+
+wellstart_health_org_coordinator:
+  id: 51
+  type: Coordinator
+  phone: '5555515555'
+  time_zone: 'Pacific Time (US & Canada)'
+  authentication_token: 5118EPFsZHs9iEPZjxxmxgh4
+  organization_id: 2

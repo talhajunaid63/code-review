@@ -1,0 +1,29 @@
+state_alaska:
+  id: 1
+  name: Alaska
+  code: AK
+  country_id: 1
+
+state_alabama:
+  id: 2
+  name: Alabama
+  code: AL
+  country_id: 1
+
+state_arkansas:
+  id: 3
+  name: Arkansas
+  code: AR
+  country_id: 1
+
+state_arizona:
+  id: 4
+  name: Arizona
+  code: AZ
+  country_id: 1
+
+state_california:
+  id: 5
+  name: "California"
+  code: "CA"
+  country_id: 1

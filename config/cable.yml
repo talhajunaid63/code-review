@@ -1,0 +1,16 @@
+development:
+  adapter: redis
+  url: redis://localhost:6379/1
+
+test:
+  adapter: redis
+  url: redis://localhost:6379/1
+
+beta:
+  adapter: redis
+  url: <%= ENV[ENV["REDIS_PROVIDER"].presence || "REDIS_URL"] %>
+
+production:
+  adapter: redis
+  url: <%= ENV[ENV["REDIS_PROVIDER"].presence || "REDIS_URL"] %>
+  channel_prefix: urgentcare_production

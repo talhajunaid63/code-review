@@ -1,0 +1,105 @@
+setup_organization:
+  id: 0
+  name: Setup
+  description:
+  landing_page:
+  slug: setup
+  zip:
+  address:
+  phone:
+  hero_file_name:
+  hero_content_type:
+  hero_file_size:
+  hero_updated_at:
+  logo_file_name:
+  logo_content_type:
+  logo_file_size:
+  logo_updated_at:
+  brand_color:
+  api_token: tst_org_001
+  tier: 'integrated'
+
+southwest_medical:
+  id: 1
+  name: Southwest Medical
+  description: Brining the best of Southwest Medical into your own home.
+  landing_page:
+  slug: southwest-medical
+  zip: 90066
+  address:
+  phone: 555-555-5555
+  hero_file_name:
+  hero_content_type:
+  hero_file_size:
+  hero_updated_at:
+  logo_file_name:
+  logo_content_type:
+  logo_file_size:
+  logo_updated_at:
+  brand_color: "#cc5500"
+  api_token: tst_org_002
+  tier: 'integrated'
+
+wellstart_health:
+  id: 2
+  name: WellStart Health
+  description: Reversing Chronic Disease
+  landing_page:
+  slug: wellStart-health
+  zip: 90291
+  address:
+  phone: 555-555-5555
+  hero_file_name:
+  hero_content_type:
+  hero_file_size:
+  hero_updated_at:
+  logo_file_name:
+  logo_content_type:
+  logo_file_size:
+  logo_updated_at:
+  brand_color: "#88BD8A"
+  api_token: tst_org_003
+  tier: 'integrated'
+
+uvo_health:
+  id: 3
+  enable_recording: true
+  name: UvoHealth
+  description: Video Visit Portal
+  landing_page:
+  slug: uvohealth
+  zip: 93001
+  address:
+  phone: 555-555-5555
+  hero_file_name:
+  hero_content_type:
+  hero_file_size:
+  hero_updated_at:
+  logo_file_name:
+  logo_content_type:
+  logo_file_size:
+  logo_updated_at:
+  brand_color: "#2382b0"
+  api_token: tst_org_004
+  tier: 'integrated'
+
+rmg:
+  id: 4
+  name: Rouge Medical Group
+  description: Video Visit Portal
+  landing_page:
+  slug: rouge-medical-group
+  zip: 93035
+  address:
+  phone: (805)-985-5880
+  hero_file_name:
+  hero_content_type:
+  hero_file_size:
+  hero_updated_at:
+  logo_file_name:
+  logo_content_type:
+  logo_file_size:
+  logo_updated_at:
+  brand_color: "#337ab7"
+  api_token: tst_org_005
+  tier: 'integrated'

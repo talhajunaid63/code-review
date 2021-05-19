@@ -1,0 +1,114 @@
+{
+  "created": 1326853478,
+  "livemode": false,
+  "id": "invoice.payment_00000000000000",
+  "type": "invoice.payment_succeeded",
+  "object": "event",
+  "request": null,
+  "pending_webhooks": 1,
+  "api_version": "2018-11-08",
+  "data": {
+    "object": {
+      "id": "in_00000000000000",
+      "object": "invoice",
+      "amount_due": 49900,
+      "amount_paid": 49900,
+      "amount_remaining": 0,
+      "application_fee": null,
+      "attempt_count": 1,
+      "attempted": true,
+      "auto_advance": false,
+      "billing": "charge_automatically",
+      "billing_reason": "subscription_create",
+      "charge": "_00000000000000",
+      "created": 1552075065,
+      "currency": "usd",
+      "custom_fields": null,
+      "customer": "cus_00000000000000",
+      "date": 1552075065,
+      "default_source": null,
+      "description": null,
+      "discount": null,
+      "due_date": null,
+      "ending_balance": 0,
+      "finalized_at": 1552075066,
+      "footer": null,
+      "hosted_invoice_url": "https://pay.stripe.com/invoice/invst_Az8koV1E4rSVLy4KnQKhdGx4qz",
+      "invoice_pdf": "https://pay.stripe.com/invoice/invst_Az8koV1E4rSVLy4KnQKhdGx4qz/pdf",
+      "lines": {
+        "data": [
+          {
+            "id": "sli_00000000000000",
+            "object": "line_item",
+            "amount": 49900,
+            "currency": "usd",
+            "description": "1 × Plus Membership (at $499.00 / year)",
+            "discountable": true,
+            "livemode": false,
+            "metadata": {
+            },
+            "period": {
+              "end": 1615233465,
+              "start": 1583697465
+            },
+            "plan": {
+              "id": "plan_00000000000000",
+              "object": "plan",
+              "active": true,
+              "aggregate_usage": null,
+              "amount": 49900,
+              "billing_scheme": "per_unit",
+              "created": 1551108570,
+              "currency": "usd",
+              "interval": "year",
+              "interval_count": 1,
+              "livemode": false,
+              "metadata": {
+              },
+              "nickname": "Plus",
+              "product": "prod_00000000000000",
+              "tiers": null,
+              "tiers_mode": null,
+              "transform_usage": null,
+              "trial_period_days": null,
+              "usage_type": "licensed"
+            },
+            "proration": false,
+            "quantity": 1,
+            "subscription": "sub_00000000000000",
+            "subscription_item": "si_00000000000000",
+            "type": "subscription"
+          }
+        ],
+        "has_more": false,
+        "object": "list",
+        "url": "/v1/invoices/in_1EBopCA1Kp2Ylr7EXrMqp1cd/lines"
+      },
+      "livemode": false,
+      "metadata": {
+      },
+      "next_payment_attempt": null,
+      "number": "0AE8911-0001",
+      "paid": true,
+      "period_end": 1552075065,
+      "period_start": 1552075065,
+      "receipt_number": null,
+      "starting_balance": 0,
+      "statement_descriptor": null,
+      "status": "paid",
+      "status_transitions": {
+        "finalized_at": 1552075066,
+        "marked_uncollectible_at": null,
+        "paid_at": 1552075067,
+        "voided_at": null
+      },
+      "subscription": "sub_00000000000000",
+      "subtotal": 49900,
+      "tax": null,
+      "tax_percent": null,
+      "total": 49900,
+      "webhooks_delivered_at": 1552075067,
+      "closed": true
+    }
+  }
+}

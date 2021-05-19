@@ -1,0 +1,117 @@
+provider_isreal_detail:
+  id: 1
+  about:
+  qualifications:
+  specialties:
+  city:
+  state:
+  provider_id: 2
+  zip:
+  role: Medical Doctor
+
+provider_blanch_detail:
+  id: 2
+  about: "Clinical Assistant Professor at Stanford University Medical School and
+    has staff privileges at the VA Palo Alto Health Care System. He also loves hiking
+    and photography."
+  qualifications: "Graduate of The University of Chicago-Pritzker. He is board
+    certified in Internal Medicine. He completed residency and Chief residency at
+    Stanford Hospital and Clinics. Graduate of Stanford. Completed
+    Residency at UCLA"
+  specialties: "Urgent care and ER director. Specialties Include: Flu
+    Epidemics, Respiratory Issues, Gastrointestinal"
+  city: Tujunga
+  state: CA
+  provider_id: 3
+  zip: 91040
+  role: Medical Doctor
+  acts_as_org_admin: true
+
+provider_antoine_detail:
+  id: 3
+  about: "Graduate of George Washington University Medical School. He trained in internal medicine at the University of Oregon Health Sciences (UOHS) and pulmonary critical care medicine at UOHS and the University of Southern California."
+  city: Tujunga
+  state: CA
+  provider_id: 7
+  zip: 91040
+  role: Pharmacist
+
+provider_carissa_detail:
+  id: 4
+  city: Tujunga
+  state: CA
+  provider_id: 8
+  zip: 91040
+  role: Pharmacist
+
+provider_devin_detail:
+  id: 5
+  city: Tujunga
+  state: CA
+  provider_id: 9
+  zip: 91040
+  role: Pharmacist
+
+provider_christopher_detail:
+  id: 6
+  city: Tujunga
+  state: CA
+  provider_id: 10
+  zip: 91040
+  role: Pharmacist
+
+provider_leah_detail:
+  id: 7
+  city: Tujunga
+  state: CA
+  provider_id: 11
+  zip: 91040
+  role: Pharmacy Technician
+
+provider_helena_detail:
+  id: 8
+  city: Tujunga
+  state: CA
+  provider_id: 12
+  zip: 91040
+  role: Pharmacy Technician
+
+provider_karin_detail:
+  id: 9
+  city: Tujunga
+  state: CA
+  provider_id: 13
+  zip: 91040
+  role: Pharmacy Technician
+
+provider_janet_detail:
+  id: 42
+  city: Tujunga
+  state: CA
+  provider_id: 42
+  zip: 91040
+  role: Pharmacy Technician
+
+provider_john_detail:
+  id: 43
+  city: Tujunga
+  state: CA
+  provider_id: 43
+  zip: 91040
+  role: Pharmacist
+
+southwest_medical_org_provider_detail:
+  id: 144
+  city: Tujunga
+  state: CA
+  provider_id: 144
+  zip: 91040
+  role: Pharmacist
+
+wellstart_health_org_provider_detail:
+  id: 145
+  city: Tujunga
+  state: CA
+  provider_id: 145
+  zip: 91040
+  role: Pharmacist

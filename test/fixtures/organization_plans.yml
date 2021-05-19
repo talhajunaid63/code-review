@@ -1,0 +1,47 @@
+_fixture:
+  model_class: Organization::Plan
+
+individual_plan:
+  price: 0.00
+  stripe_id:
+  name: "individual"
+  interval: 2
+  status: active
+  display_order: 1
+  created_at: <%= DateTime.now - 30.days %>
+  updated_at: <%= DateTime.now - 10.days %>
+
+professional_plan:
+  price: 29.00
+  name: "professional"
+  interval: 2
+  status: active
+  display_order: 2
+  featured: true
+  created_at: <%= DateTime.now - 29.days %>
+  updated_at: <%= DateTime.now - 11.days %>
+
+practice_plan:
+  price: 39.00
+  name: "practice"
+  interval: 2
+  status: active
+  display_order: 3
+  created_at: <%= DateTime.now - 28.days %>
+  updated_at: <%= DateTime.now - 12.days %>
+
+integrated_plan:
+  name: "integrated"
+  interval: 2
+  status: active
+  by_quote: true
+  display_order: 4
+  created_at: <%= DateTime.now - 28.days %>
+  updated_at: <%= DateTime.now - 12.days %>
+
+recording_plan:
+  name: <%= VisitRecording::RECORDING_PLAN_NAME %>
+  interval: 2
+  status: 'active'
+  display_order: 5
+  special: true

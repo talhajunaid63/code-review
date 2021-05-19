@@ -1,0 +1,18 @@
+paginated_collection(versions.page(params[:versions_page]).per(5), param_name: 'versions_page') do
+  table_for collection do
+    column "Action" do |version|
+      [version.item_type, version.event].join(" ")
+    end
+    column "Changes" do |version|
+      version.changeset.map do |attr, changes|
+        ["<strong>#{attr}</strong>", HtmlDiff.diff(*changes)].join(": ")
+      end.join("<br/>").html_safe
+    end
+    column 'By' do |version|
+      link_to version.created_by.name, admin_user_path(version.created_by) if version.created_by.present?
+    end
+    column "At" do |version|
+      version.created_at
+    end
+  end
+end

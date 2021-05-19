@@ -1,0 +1,5 @@
+name: test-checkout
+packages:
+- path: app/controllers
+- path: app/models
+- path: app/services

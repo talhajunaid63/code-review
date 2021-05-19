@@ -1,0 +1,4 @@
+diagnosis_1:
+  id: 1
+  diagnosis_code: "A00.0"
+  diag_description: "Cholera"

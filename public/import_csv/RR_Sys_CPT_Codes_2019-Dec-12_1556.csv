@@ -1,0 +1,102 @@
+CPT_Code,CPT_Description
+90785,Psytx complex interactive
+90791,Psych diagnostic evaluation
+90792,Psych diag eval w/med srvcs
+90832,Psytx pt&/family 30 minutes
+90833,Psytx pt&/fam w/e&m 30 min
+90834,Psytx pt&/family 45 minutes
+90836,Psytx pt&/fam w/e&m 45 min
+90837,Psytx pt&/family 60 minutes
+90838,Psytx pt&/fam w/e&m 60 min
+90839,Psytx crisis initial 60 min
+90840,Psytx crisis ea addl 30 min
+90845,Psychoanalysis
+90846,Family psytx w/o patient
+90847,Family psytx w/patient
+90951,Esrd serv 4 visits p mo <2yr
+90952,Esrd serv 2-3 vsts p mo <2yr
+90954,Esrd serv 4 vsts p mo 2-11
+90955,Esrd srv 2-3 vsts p mo 2-11
+90957,Esrd srv 4 vsts p mo 12-19
+90958,Esrd srv 2-3 vsts p mo 12-19
+90960,Esrd srv 4 visits p mo 20+
+90961,Esrd srv 2-3 vsts p mo 20+
+90963,Esrd home pt serv p mo <2yrs
+90964,Esrd home pt serv p mo 2-11
+90965,Esrd home pt serv p mo 12-19
+90966,Esrd home pt serv p mo 20+
+90967,Esrd home pt serv p day <2
+90968,Esrd home pt serv p day 2-11
+90969,Esrd home pt serv p day 12-19
+90970,Esrd home pt serv p day 20+
+96116,Neurobehavioral status exam
+96150,Assess hlth/behave init
+96151,Assess hlth/behave subseq
+96152,Intervene hlth/behave indiv
+96153,Intervene hlth/behave group
+96154,Interv hlth/behav fam w/pt
+96160,Pt-focused hlth risk assmt
+96161,Caregiver health risk assmt
+97802,Medical nutrition indiv in
+97803,Med nutrition indiv subseq
+97804,Medical nutrition group
+99201,Office/outpatient visit new
+99202,Office/outpatient visit new
+99203,Office/outpatient visit new
+99204,Office/outpatient visit new
+99205,Office/outpatient visit new
+99211,Office/outpatient visit est
+99212,Office/outpatient visit est
+99213,Office/outpatient visit est
+99214,Office/outpatient visit est
+99215,Office/outpatient visit est
+99231,Subsequent hospital care
+99232,Subsequent hospital care
+99233,Subsequent hospital care
+99307,Nursing fac care subseq
+99308,Nursing fac care subseq
+99309,Nursing fac care subseq
+99310,Nursing fac care subseq
+99354,Prolonged service office
+99355,Prolonged service office
+99356,Prolonged service inpatient
+99357,Prolonged service inpatient
+99406,Behav chng smoking 3-10 min
+99407,Behav chng smoking > 10 min
+99495,Trans care mgmt 14 day disch
+99496,Trans care mgmt 7 day disch
+99497,Advncd care plan 30 min
+99498,Advncd are plan addl 30 min
+G0108,Diab manage trn  per indiv
+G0109,Diab manage trn ind/group
+G0270,Mnt subs tx for change dx
+G0296,Visit to determ ldct elig
+G0396,Alcohol/subs interv 15-30mn
+G0397,Alcohol/subs interv >30 min
+G0406,Inpt/tele follow up 15
+G0407,Inpt/tele follow up 25
+G0408,Inpt/tele follow up 35
+G0420,Ed svc ckd ind per session
+G0421,Ed svc ckd grp per session
+G0425,Inpt/ed teleconsult30
+G0426,Inpt/ed teleconsult50
+G0427,Inpt/ed teleconsult70
+G0436,Tobacco-use counsel 3-10 min
+G0437,Tobacco-use counsel>10min
+G0438,"Ppps, initial visit"
+G0439,"Ppps, subseq visit"
+G0442,Annual alcohol screen 15 min
+G0443,Brief alcohol misuse counsel
+G0444,Depression screen annual
+G0445,High inten beh couns std 30m
+G0446,Intens behave ther cardio dx
+G0447,Behavior counsel obesity 15m
+G0459,Telehealth inpt pharm mgmt
+G0506,Comp asses care plan ccm svc
+G0508,Crit care telehea consult 60
+G0509,Crit care telehea consult 50
+G0513,"Prolong prev svcs, first 30m"
+G0514,"Prolong prev svcs, addl 30m"
+G2086,Off  base opioid tx first m
+G2087,"Off† base opioid tx, sub m"
+G2088,Off opioid tx month add 30 

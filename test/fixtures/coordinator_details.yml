@@ -1,0 +1,34 @@
+coordinator_6_detail:
+  coordinator_id: 6
+
+coordinator_14_detail:
+  coordinator_id: 14
+  acts_as_org_admin: true
+
+coordinator_15_detail:
+  coordinator_id: 15
+
+coordinator_16_detail:
+  coordinator_id: 16
+
+coordinator_17_detail:
+  coordinator_id: 17
+
+coordinator_18_detail:
+  coordinator_id: 18
+
+coordinator_19_detail:
+  coordinator_id: 19
+
+coordinator_46_detail:
+  coordinator_id: 46
+  acts_as_org_admin: true
+
+coordinator_47_detail:
+  coordinator_id: 47
+
+coordinator_48_detail:
+  coordinator_id: 48
+
+coordinator_49_detail:
+  coordinator_id: 49

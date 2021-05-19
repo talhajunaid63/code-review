@@ -1,0 +1,75 @@
+org_admin_michael:
+  id: 200
+  type: OrgAdmin
+  first_name: Michael
+  last_name: Carbajal
+  phone: '5555555555'
+  email: 'org_admin_5@fake.me'
+  source:
+  terms:
+  zip:
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:04.809257000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: 2018-08-04 18:39:04.809257000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:04.809257000 Z
+    zone: *1
+    time: 2018-08-04 18:39:04.809257000 Z
+  avatar_file_name:
+  avatar_content_type:
+  avatar_file_size:
+  avatar_updated_at:
+  encrypted_password: ''
+  reset_password_token:
+  reset_password_sent_at:
+  remember_created_at:
+  sign_in_count: 0
+  current_sign_in_at:
+  last_sign_in_at:
+  current_sign_in_ip:
+  last_sign_in_ip:
+  stripe_id:
+  last_seen:
+  authentication_token: s9iZjxxmxgh4UZUKFsZH
+  status:
+  organization_id: 4
+
+org_admin_jeanette:
+  id: 201
+  type: OrgAdmin
+  first_name: Jeanette
+  last_name: Danner
+  phone: '5555415555'
+  email: 'org_admin_41@fake.me'
+  source:
+  terms:
+  zip:
+  created_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:04.809257000 Z
+    zone: &1 !ruby/object:ActiveSupport::TimeZone
+      name: America/Los_Angeles
+    time: 2018-08-04 18:39:04.809257000 Z
+  updated_at: !ruby/object:ActiveSupport::TimeWithZone
+    utc: 2018-08-05 01:39:04.809257000 Z
+    zone: *1
+    time: 2018-08-04 18:39:04.809257000 Z
+  avatar_file_name:
+  avatar_content_type:
+  avatar_file_size:
+  avatar_updated_at:
+  encrypted_password: ''
+  reset_password_token:
+  reset_password_sent_at:
+  remember_created_at:
+  sign_in_count: 0
+  current_sign_in_at:
+  last_sign_in_at:
+  current_sign_in_ip:
+  last_sign_in_ip:
+  stripe_id:
+  last_seen:
+  authentication_token: 4141s9iZjx0541UZUKFsZH
+  status:
+  organization_id: 3

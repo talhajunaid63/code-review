@@ -1,0 +1,201 @@
+basic_detail_1:
+  id: 1
+  patient_id: 1
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 17901 Chatsworth St, Granada Hills, CA 91344
+
+basic_detail_20:
+  id: 20
+  patient_id: 20
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 11850 Balboa Blvd B-102, Granada Hills, CA 91344
+
+
+basic_detail_21:
+  id: 21
+  patient_id: 21
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 13686 Foothill Blvd, Sylmar, CA 91342
+
+basic_detail_22:
+  id: 22
+  patient_id: 22
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 1135 Truman St, San Fernando, CA 91340
+
+basic_detail_23:
+  id: 23
+  patient_id: 23
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 3900 San Fernando Rd, Glendale, CA 91204
+
+basic_detail_24:
+  id: 24
+  patient_id: 24
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 800 W Olympic Blvd, Los Angeles, CA 90015
+
+basic_detail_25:
+  id: 25
+  patient_id: 25
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 2735 S Figueroa St, Los Angeles, CA 90007
+
+basic_detail_26:
+  id: 26
+  patient_id: 26
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 5857 S Central Ave, Los Angeles, CA 90001
+
+basic_detail_27:
+  id: 27
+  patient_id: 27
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 3853 E 3rd St, Los Angeles, CA 90063
+
+basic_detail_28:
+  id: 28
+  patient_id: 28
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 8985 Venice Blvd, Los Angeles, CA 90034
+
+basic_detail_29:
+  id: 29
+  patient_id: 29
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 15030 Ventura Blvd, Sherman Oaks, CA 91403
+
+basic_detail_30:
+  id: 30
+  patient_id: 30
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 4550 Van Nuys Blvd, Sherman Oaks, CA 91403
+
+basic_detail_31:
+  id: 31
+  patient_id: 31
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 13535 Ventura Blvd, Sherman Oaks, CA 91423
+
+basic_detail_32:
+  id: 32
+  patient_id: 32
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 3900 San Fernando Rd, Glendale, CA 91204
+
+basic_detail_33:
+  id: 33
+  patient_id: 33
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 3900 San Fernando Rd, Glendale, CA 91204
+
+basic_detail_34:
+  id: 34
+  patient_id: 34
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 13686 Foothill Blvd, Sylmar, CA 91342
+
+basic_detail_35:
+  id: 35
+  patient_id: 35
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address:
+
+basic_detail_36:
+  id: 36
+  patient_id: 36
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 17901 Chatsworth St, Granada Hills, CA 91344
+
+basic_detail_37:
+  id: 37
+  patient_id: 37
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 13535 Ventura Blvd, Sherman Oaks, CA 91423
+
+basic_detail_38:
+  id: 38
+  patient_id: 38
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 15030 Ventura Blvd, Sherman Oaks, CA 91403
+
+basic_detail_39:
+  id: 39
+  patient_id: 39
+  gender: 0
+  city: Los Angeles
+  state: CA
+  address: 5857 S Central Ave, Los Angeles, CA 90001
+
+basic_detail_40:
+  id: 40
+  patient_id: 40
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 3853 E 3rd St, Los Angeles, CA 90063
+
+basic_detail_44:
+  id: 44
+  patient_id: 44
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 4645 Beverly Boulevard, Los Angeles, CA, USA
+
+basic_detail_45:
+  id: 45
+  patient_id: 45
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 6464 West Olympic Boulevard, Los Angeles, CA, USA
+
+basic_detail_1340:
+  id: 1340
+  patient_id: 1340
+  gender: 1
+  city: Los Angeles
+  state: CA
+  address: 4645 Beverly Boulevard, Los Angeles, CA, USA
+  client_unique_id: 123456789
